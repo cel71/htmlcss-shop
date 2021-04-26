@@ -90,6 +90,10 @@
     position: relative;
 }
 
+.immagine-first:hover{
+    background-image: url(../img/1-hover.webp);
+}
+
 .immagine-second{
     width: 100%;
     height: 600px;
@@ -97,6 +101,10 @@
     background-size: cover;
     background-position: center;
     position: relative;
+}
+
+.immagine-second:hover{
+    background-image: url(../img/2-hover.webp);
 }
 
 .immagine-third{
@@ -108,6 +116,10 @@
     position: relative;
 }
 
+.immagine-third:hover{
+    background-image: url(../img/3-hover.webp);
+}
+
 .immagine-sfirst{
     width: 100%;
     height: 600px;
@@ -115,6 +127,10 @@
     background-size: cover;
     background-position: center;
     position: relative;
+}
+
+.immagine-sfirst:hover{
+    background-image: url(../img/4-hover.webp);
 }
 
 .immagine-ssecond{
@@ -126,6 +142,10 @@
     position: relative;
 }
 
+.immagine-ssecond:hover{
+    background-image: url(../img/5-hover.webp);
+}
+
 .immagine-sthird{
     width: 100%;
     height: 600px;
@@ -133,6 +153,10 @@
     background-size: cover;
     background-position: center;
     position: relative;
+}
+
+.immagine-sthird:hover{
+    background-image: url(../img/6-hover.webp);
 }
 
 .sconto-percentuale{
